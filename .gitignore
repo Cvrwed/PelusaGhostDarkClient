@@ -5,5 +5,4 @@
 bin/
 PelusaGhostDarkClient_Client.launch
 run/
-build/*
-!build/libs
+build/
